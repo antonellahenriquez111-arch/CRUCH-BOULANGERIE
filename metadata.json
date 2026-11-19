@@ -1,0 +1,8 @@
+{
+  "name": "Crunch Boulangerie",
+  "description": "Panadería artesanal de masa madre al mayor y cultivo vivo con guía de preparación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
